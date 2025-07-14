@@ -1,1 +1,1 @@
-# Leave-Management-System
+A simple CRUD application using Java
